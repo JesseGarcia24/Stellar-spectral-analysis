@@ -1,1 +1,1 @@
-# Stellar-spectral-analysis
+# Jesse Garcia
